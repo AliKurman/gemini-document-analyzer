@@ -4,7 +4,7 @@
 
 This project is a powerful tool designed for the **automated extraction of structured data** from scanned or photographed official documents (specifically, an **ID card** and a **School Certificate**). It leverages the multimodal capabilities of the **Google Gemini 3.5** model.
 
-It was developed to [Your purpose, e.g.: "fulfill an academic assignment on API integration and data analysis" or "create a robust proof-of-concept for digital document processing"].
+It was developed to  fulfill an academic assignment on API integration and data analysis
 
 ## ✨ Key Features
 
